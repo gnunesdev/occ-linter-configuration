@@ -1,4 +1,4 @@
-## :computer: Guia para configuração do Visual Code + Explicação dos linters:
+## :computer: Configuração do Visual Code + Linters:
 
 O objetivo deste repositório é fornecer um guia simples para instação das bibliotecas e extensões necessárias para a devida formatação de código nos reposítorios de projetos OCC. Para mais informações e documentação, acesse o seguinte link: [OCC Enext](https://google.com.br/).
 
