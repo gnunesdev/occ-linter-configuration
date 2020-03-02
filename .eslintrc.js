@@ -21,6 +21,10 @@ module.exports = {
     'no-console': 'warn',
     'func-names': 'off',
     'space-before-function-paren': 0,
-    "object-shorthand": [0, "always"]
+    "object-shorthand": [0, "always"],
+    'no-plusplus': [2, { allowForLoopAfterthoughts: true }],
+    'vars-on-top': 0,
+    'no-var': 0,
+    'block-scoped-var': 0
   },
 };
